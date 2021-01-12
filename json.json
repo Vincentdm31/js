@@ -1,0 +1,20 @@
+{   
+    "todo": [
+        {
+            "name": "sortir chiens",
+            "state": "à faire"
+        },
+        {
+            "name": "donner un gâteau",
+            "state": "fait"
+        },
+        {
+            "name": "pipi chien",
+            "state": "à faire"
+        },
+        {
+            "name": "caca chien",
+            "state": "fait"
+        }
+    ]
+}
