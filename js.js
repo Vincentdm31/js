@@ -69,10 +69,10 @@ function add(){
     mydiv.appendChild(div);
 }
 
-function change(){
-
-let test = document.querySelector("div").closest(".card-header").innerHTML;
-test.getAttribute('data-value');
-console.log(test);
+function change(e){
+  
+  var el = document.getElementById('div-03');
+  var r1 = el.closest("card-header");
+  console.log(r1);
   
 }
